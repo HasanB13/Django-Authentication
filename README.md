@@ -4,7 +4,7 @@
 
 - customize admin page
 
-- rgister new user
+- register new user
 
 - login using username or email
 
